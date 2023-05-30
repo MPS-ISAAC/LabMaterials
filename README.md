@@ -39,6 +39,6 @@ A list of our hands-on activities are as follows:
 
 # LICENSE
 
-**CC BY-NS-SA 4.0**
+**CC BY-NC-SA 4.0**
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
